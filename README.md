@@ -1,9 +1,9 @@
 # my-ssm  
 自己手写的简易ssm框架  
 常用注解(Controller, Autowired,Request,事务)  
-目录结构 
-├── DispatchServlet.java ##启动servlet主要方法 
-├── annotations ##注解 
+目录结构  
+├── DispatchServlet.java 启动servlet主要方法  
+├── annotations 注解  
 │   ├── Autowired.java  
 │   ├── Controller.java  
 │   ├── RequestMapping.java  
